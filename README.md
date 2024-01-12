@@ -1,4 +1,4 @@
-### Hi👋.Hi, I am an innovator in problem-solving,
+### Hi👋, I am an innovator in problem-solving,
  passionate about crafting seamless and efficient software solutions, 
 👩‍💻I bring extensive expertise in front and backend development 💻
 
