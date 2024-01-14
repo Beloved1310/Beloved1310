@@ -3,10 +3,10 @@
 👩‍💻I bring extensive expertise in front and backend development 💻
 
 
-- 🔭 I’m currently working on A global project
+- 🔭 I’m currently working on a global project
 - 🌱 I’m currently learning: Developer relationship, Javascript.
 - 👯 I’m looking to collaborate on commerce or fintech products of all sizes and ranges (Javascript)
-- 🤔 I’m looking for help  and learn with technical problem products ranging from commerce and fintech 
+- 🤔 I’m looking to help  and learn with technical problem products ranging from commerce and fintech 
 - 💬 Ask me about Software Engineering, Developer Relations, Web3
 - 📫 How to reach me: adeoluwafisayomi@gmail.com
 - 😄 Pronouns: She, Her
