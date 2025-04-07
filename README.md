@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ayo — Software Engineer | Web3 Advocate | Developer Relations Enthusiast  
+### 👋 Hi, I'm Ayo — Software Engineer | Web3 Advocate | Developer Relations  
 
 I'm an innovator, passionate about building scalable, meaningful software solutions that make a real-world impact. With deep experience across front and backend development, I love solving problems, exploring emerging technologies, and empowering others through community-driven tech.
 
