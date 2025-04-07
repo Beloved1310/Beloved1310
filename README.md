@@ -21,9 +21,8 @@ I'm an innovator, passionate about building scalable, meaningful software soluti
 
 #### 📫 Get in Touch
 - Email: **adeoluwafisayomi@gmail.com**
-- Twitter: [@deoluwafisayomi](https://x.com/deoluwafisayomi) _(Add if available)_
-- LinkedIn: [Adefisayo Adejumo](https://www.linkedin.com/in/adefisayo-adejumo/) _(Add your link)_
-
+- Twitter: [@deoluwafisayomi](https://x.com/deoluwafisayomi) 
+- LinkedIn: [Adefisayo Adejumo](https://www.linkedin.com/in/adefisayo-adejumo/)
 ---
 
 #### 🎯 A Few Fun Facts:
