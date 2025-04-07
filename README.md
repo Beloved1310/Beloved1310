@@ -1,14 +1,37 @@
-### Hi👋, I am an innovator in problem-solving,
- passionate about crafting seamless and efficient software solutions, 
-👩‍💻I bring extensive expertise in frontend and backend development 💻
+### 👋 Hi, I'm Ayo — Software Engineer | Web3 Advocate | Developer Relations Enthusiast  
 
+I'm an innovator, passionate about building scalable, meaningful software solutions that make a real-world impact. With deep experience across front and backend development, I love solving problems, exploring emerging technologies, and empowering others through community-driven tech.
 
-- 🔭 I’m currently working on a global project
-- 🌱 I’m currently learning: Developer relationship, Web 3, Javascript.
-- 👯 I’m looking to collaborate on commerce or fintech products of all sizes and ranges (Javascript)
-- 🤔 I’m looking to help  and learn with technical problem products ranging from commerce and fintech 
-- 💬 Ask me about Software Engineering, Developer Relations, Web3
-- 📫 How to reach me: adeoluwafisayomi@gmail.com
-- 😄 Pronouns: She, Her
-- ⚡ Fun fact: Less Busy? Not me! Catch me volunteering, singing, having credible conversations, tech conferences or dancing to a favourite song
+---
 
+#### 🚀 What I’m Up To:
+- 🔭 Building a global ed-tech platform.
+- 🌱 Exploring Developer Relations, advanced Web3 concepts, and modern JavaScript frameworks.
+- 👯 Actively open to collaborations in **Fintech**, **Commerce**, and **Community Tools**—especially those driven by JavaScript (React.js & Node.js).
+
+---
+
+#### 💡 Let’s Talk About:
+- Software Engineering (Full-Stack: JS/TS, Node, MongoDB, React)
+- Blockchain Development & Web3.js
+- Developer Relations and Community Engagement  
+- Building APIs, Microservices, and Scalable Systems
+
+---
+
+#### 📫 Get in Touch
+- Email: **adeoluwafisayomi@gmail.com**
+- Twitter: [@deoluwafisayomi](https://x.com/deoluwafisayomi) _(Add if available)_
+- LinkedIn: [Adefisayo Adejumo](https://www.linkedin.com/in/adefisayo-adejumo/) _(Add your link)_
+
+---
+
+#### 🎯 A Few Fun Facts:
+- 😄 Pronouns: She / Her  
+- 🗣️ Regularly speak and contribute to Web3, open-source, and developer communities  
+- 🎤 Catch me volunteering, mentoring, singing, or hosting tech chats at conferences  
+- 🕺 If there's music, I'm probably dancing to it!
+
+---
+
+### Let's build something amazing together ✨
