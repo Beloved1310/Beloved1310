@@ -20,6 +20,7 @@ Badge Earned:
 
 #### 💡 Let’s Talk About:
 - Software Engineering (Full-Stack: JS/TS, Node, MongoDB, React)
+- AI
 - Blockchain Development & Web3.js
 - Developer Relations and Community Engagement  
 - Building APIs, Microservices, and Scalable Systems
