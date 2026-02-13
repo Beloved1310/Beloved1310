@@ -13,7 +13,7 @@ Badge Earned:
 
 #### 🚀 What I’m Up To:
 - 🔭 Building a global ed-tech platform.
-- 🌱 Exploring Developer Relations, advanced Web3 concepts, and modern JavaScript frameworks.
+- 🌱 Exploring AI, modern JavaScript frameworks,  Developer Relations, and advanced Web3 concepts.
 - 👯 Actively open to collaborations in **Fintech**, **Commerce**, and **Community Tools**—especially those driven by JavaScript (React.js & Node.js).
 
 ---
