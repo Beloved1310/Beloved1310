@@ -18,7 +18,7 @@ Badge Earned:
 ---
 
 #### 💡 Let’s Talk About:
-- Software Engineering (Full-Stack: JS/TS, Node, MongoDB, React)
+- Software Engineering (Full-Stack: JS/TS, Python, Node, MongoDB, MySQL, React)
 - AI
 - Blockchain Development & Web3.js
 - Developer Relations and Community Engagement  
